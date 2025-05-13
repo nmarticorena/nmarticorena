@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I am a [PhD Researcher](https://research.qut.edu.au/qcr/people/nicolas-guillermo-marticorena-vidal/) at the [QUT Centre for Robotics(QCR)](https://research.qut.edu.au/qcr/). I previously worked as a Development Engineer at MindLabs, creating robotic solutions for agricultural applications. 
-I hold a professional degree in electrical engineering from [Universidad de Chile](https://www.electricalengineering.cl/) and was part of the Uchile robocup@home teams as part of the [uchile-robotics](https://uchile-robotics.github.io/) lab.
+I hold a professional degree in electrical engineering from [Universidad de Chile](https://www.electricalengineering.cl/) and was part of the UChile RoboCup@home teams as part of the [Uchile Robotics Lab](https://uchile-robotics.github.io/).
 - 🔭 My current research focuses on mobile manipulation control.
 - 🌱 I’m currently working on the integration of novel 3D scenes representation in a reactive mobile manipulator controller. 
 - 📫 How to reach me: Feel free to reach out on [Linkedin](https://www.linkedin.com/in/nicolas-marticorena-vidal/) or [Twitter](https://x.com/n_marticorena).
